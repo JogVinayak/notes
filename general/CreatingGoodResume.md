@@ -27,5 +27,13 @@
 - How to win friends and influence people
 
 
+## Creating collapsible list
+<details>
+<summary>Collapsible list can be create like this.</summary>
+### Collapsible list can contain details like below 
+1
+2
+3
 
+</details>
 
