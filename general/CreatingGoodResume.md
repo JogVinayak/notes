@@ -1,4 +1,4 @@
-<img src='../img/int.jpg' />
+<img src='./img/int.jpg' />
 # Creating good resume
 ## Size of resume 
 - Size of resume should not cross 2 pages.
